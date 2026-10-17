@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+aquawatch.db
+.venv/
+env/
